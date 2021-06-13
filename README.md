@@ -11,7 +11,7 @@ For the budget tracker app, I was responsible for turning it into a Progressive 
 - manifest.json
 
 ## Screenshot
-![budget-tracker landing page]()
+![budget-tracker landing page](./homepage.png)
 > This screen shot shows the landing page for the budget tracker.
 
 ## Website
